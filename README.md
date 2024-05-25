@@ -7,6 +7,7 @@
 
 <p align="left">👨‍🎓 I'm a Artificial Intelligence Developer and Erudition in Data Sciences<br>🌱 I’m currently learning at Indian Institute of Technology, Jodhpur.<br>📫 How to reach me: victorinlight@gmail.com or b22ai015@iitj.ac.in <br>👯 Embark my Adept Prowess for Rapid Learning by Collaborating.</p>
 
+<hr>
 <p align="center"><h1>🚀 Languages and Tools</h1><hr></p>
 
 <div align="center">
@@ -58,15 +59,15 @@
 
 
 <hr>
-<img align="left" height="160" src="https://i.pinimg.com/originals/96/88/5a/96885ae92511ebe5f7edd86543101e62.gif"  />
+<img align="left" height="120" src="https://i.pinimg.com/originals/96/88/5a/96885ae92511ebe5f7edd86543101e62.gif"  />
 
 
-<div align="right">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=victorgearhead&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&custom_title=My%20Stats" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=victorgearhead&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=true" height="120" alt="languages graph"  />
 </div>
 
-
+<hr>
 <div align="center">
   <a href="victorinlight@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
