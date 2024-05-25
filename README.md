@@ -2,9 +2,9 @@
   <img height="200" src="https://i.pinimg.com/originals/c2/ce/63/c2ce63dd38a5c78855027fb479ea06a7.gif"  />
 </div>
 
+<h1 align="center">About Me</h1>
 <img align="right" height="120" src="https://i.pinimg.com/564x/18/fb/ef/18fbef1eb60f96cd27e18f62c7e5af18.jpg"  />
 
-<h1 align="center">About Me</h1>
 <p align="left">👨‍🎓 I'm a Artificial Intelligence Developer and Erudition in Data Sciences<br>🌱 I’m currently learning at Indian Institute of Technology, Jodhpur.<br>📫 How to reach me: victorinlight@gmail.com or b22ai015@iitj.ac.in <br>👯 Embark my Adept Prowess for Rapid Learning by Collaborating.</p>
 
 <p align="left"><h1>🚀 Languages and Tools</h1><hr></p>
@@ -47,7 +47,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 <hr>
-###
+
 
 <div align="center">
   <img height="200" src="https://i.pinimg.com/originals/93/27/50/9327503e361dffaeaf4f81f16d86ed0f.gif"  />
@@ -77,10 +77,8 @@
   </a>
 </div>
 
-###
-
 <div align="center">
   <img height="200" src="https://i.pinimg.com/564x/0d/e1/37/0de1375680c8e5b9676b6c49c09940d2.jpg"  />
 </div>
 
-###
+
