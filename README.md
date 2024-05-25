@@ -1,4 +1,6 @@
-<img align="center" alt="Coding" width=100% height=100% src="https://github.com/victorgearhead/VictorGearhead/assets/161515697/5247c36c-110d-4b92-a7a9-58fe39b0ccb3">
+<!--<img align="center" alt="Coding" width=100% height=100% src="https://github.com/victorgearhead/VictorGearhead/assets/161515697/5247c36c-110d-4b92-a7a9-58fe39b0ccb3">-->
+
+![Alt Text](https://github.com/victorgearhead/VictorGearhead/assets/161515697/5247c36c-110d-4b92-a7a9-58fe39b0ccb3)
 
 <!--![header]((https://github.com/victorgearhead/VictorGearhead/assets/161515697/5247c36c-110d-4b92-a7a9-58fe39b0ccb3)-->
 
