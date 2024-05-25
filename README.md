@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left"><h1>🙋‍♂️ About Me</h1>                                                                 <hr>- 👨‍🎓 I'm a Artificial Intelligence Developer and Erudition in Data Sciences<br>- 🌱 I’m currently learning at Indian Institute of Technology, Jodhpur.<br>- 📫 How to reach me: victorinlight@gmail.com or b22ai015@iitj.ac.in <br>- 👯 Embark my Adept Prowess for Rapid Learning by Collaborating.</p>
+<p align="left"><h1>🙋‍♂️ About Me</h1>                                                                 <br>- 👨‍🎓 I'm a Artificial Intelligence Developer and Erudition in Data Sciences<br>- 🌱 I’m currently learning at Indian Institute of Technology, Jodhpur.<br>- 📫 How to reach me: victorinlight@gmail.com or b22ai015@iitj.ac.in <br>- 👯 Embark my Adept Prowess for Rapid Learning by Collaborating.</p>
 
 ###
 
@@ -53,13 +53,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
-
+<hr>
 ###
 
 <div align="center">
   <img height="200" src="https://i.pinimg.com/originals/93/27/50/9327503e361dffaeaf4f81f16d86ed0f.gif"  />
 </div>
-
+<hr>
 ###
 
 <img src="https://raw.githubusercontent.com/victorgearhead/victorgearhead/output/snake.svg" alt="My Activity" />
@@ -69,7 +69,7 @@
 <img align="left" height="160" src="https://i.pinimg.com/originals/96/88/5a/96885ae92511ebe5f7edd86543101e62.gif"  />
 
 ###
-
+<hr>
 <div align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=victorgearhead&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&custom_title=My%20Stats" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=victorgearhead&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=true" height="120" alt="languages graph"  />
