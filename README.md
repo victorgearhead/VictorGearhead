@@ -8,7 +8,7 @@
 
 ###
 <hr>
-<p align="left"><h2>🙋‍♂️ About Me</h2>                                                                 <br>- 👨‍🎓 I'm a Artificial Intelligence Developer and Erudition in Data Sciences<br>- 🌱 I’m currently learning at Indian Institute of Technology, Jodhpur.<br>- 📫 How to reach me: victorinlight@gmail.com or b22ai015@iitj.ac.in <br>- 👯 Embark my Adept Prowess for Rapid Learning by Collaborating.</p>
+<p align="left"><a font-size: 34px>🙋‍♂️ About Me<a>                                                                 <br>👨‍🎓 I'm a Artificial Intelligence Developer and Erudition in Data Sciences<br>🌱 I’m currently learning at Indian Institute of Technology, Jodhpur.<br>📫 How to reach me: victorinlight@gmail.com or b22ai015@iitj.ac.in <br>👯 Embark my Adept Prowess for Rapid Learning by Collaborating.</p>
 
 ###
 
