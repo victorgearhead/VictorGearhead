@@ -4,6 +4,8 @@
 
 <img align="center" alt="Coding" width=20% src="https://github.com/victorgearhead/VictorGearhead/assets/161515697/a6fa9cfd-0dcc-4efa-89b6-d4904b8da514">
 🙋‍♂️ About Me
+
+
 - 👨‍🎓 I'm a Artificial Intelligence Developer and Erudition in Data Sciences
 - 🌱 I’m currently learning at Indian Institute of Technology, Jodhpur.
 - 📫 How to reach me: vigneshchittiprolu@gmail.com or b22ai015@iitj.ac.in
