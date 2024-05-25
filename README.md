@@ -7,7 +7,7 @@
 
 <p align="left">👨‍🎓 I'm a Artificial Intelligence Developer and Erudition in Data Sciences<br>🌱 I’m currently learning at Indian Institute of Technology, Jodhpur.<br>📫 How to reach me: victorinlight@gmail.com or b22ai015@iitj.ac.in <br>👯 Embark my Adept Prowess for Rapid Learning by Collaborating.</p>
 
-<p align="left"><h1>🚀 Languages and Tools</h1><hr></p>
+<p align="center"><h1>🚀 Languages and Tools</h1><hr></p>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -57,11 +57,10 @@
 <img src="https://raw.githubusercontent.com/victorgearhead/victorgearhead/output/snake.svg" alt="My Activity" />
 
 
-
+<hr>
 <img align="left" height="160" src="https://i.pinimg.com/originals/96/88/5a/96885ae92511ebe5f7edd86543101e62.gif"  />
 
 
-<hr>
 <div align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=victorgearhead&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&custom_title=My%20Stats" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=victorgearhead&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=true" height="120" alt="languages graph"  />
