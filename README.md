@@ -1,6 +1,6 @@
-<!--<img align="center" alt="Coding" width=100% src="![image](https://github.com/victorgearhead/VictorGearhead/assets/161515697/5247c36c-110d-4b92-a7a9-58fe39b0ccb3)"> -->
+<img align="center" alt="Coding" width=100% src="![image](https://github.com/victorgearhead/VictorGearhead/assets/161515697/5247c36c-110d-4b92-a7a9-58fe39b0ccb3)">
 
-![header]((https://github.com/victorgearhead/VictorGearhead/assets/161515697/5247c36c-110d-4b92-a7a9-58fe39b0ccb3)
+<!--![header]((https://github.com/victorgearhead/VictorGearhead/assets/161515697/5247c36c-110d-4b92-a7a9-58fe39b0ccb3)-->
 
 ## 🙋‍♂️ About Me
 - 👨‍🎓 I'm a Artificial Intelligence Developer and Erudition in Data Sciences
