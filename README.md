@@ -2,19 +2,12 @@
   <img height="200" src="https://i.pinimg.com/originals/c2/ce/63/c2ce63dd38a5c78855027fb479ea06a7.gif"  />
 </div>
 
-###
-
 <img align="right" height="120" src="https://i.pinimg.com/564x/18/fb/ef/18fbef1eb60f96cd27e18f62c7e5af18.jpg"  />
 
-###
 <hr>
-<p align="left"><p style="font-size:34px; ">🙋‍♂️ About Me<p>                                                                 <br>👨‍🎓 I'm a Artificial Intelligence Developer and Erudition in Data Sciences<br>🌱 I’m currently learning at Indian Institute of Technology, Jodhpur.<br>📫 How to reach me: victorinlight@gmail.com or b22ai015@iitj.ac.in <br>👯 Embark my Adept Prowess for Rapid Learning by Collaborating.</p>
-
-###
+<p align="left"><p style="font-size:34 px; ">🙋‍♂️ About Me<p>                                                                 <br>👨‍🎓 I'm a Artificial Intelligence Developer and Erudition in Data Sciences<br>🌱 I’m currently learning at Indian Institute of Technology, Jodhpur.<br>📫 How to reach me: victorinlight@gmail.com or b22ai015@iitj.ac.in <br>👯 Embark my Adept Prowess for Rapid Learning by Collaborating.</p>
 
 <p align="left"><h1>🚀 Languages and Tools</h1><hr></p>
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -60,22 +53,20 @@
   <img height="200" src="https://i.pinimg.com/originals/93/27/50/9327503e361dffaeaf4f81f16d86ed0f.gif"  />
 </div>
 <hr>
-###
 
 <img src="https://raw.githubusercontent.com/victorgearhead/victorgearhead/output/snake.svg" alt="My Activity" />
 
-###
+
 
 <img align="left" height="160" src="https://i.pinimg.com/originals/96/88/5a/96885ae92511ebe5f7edd86543101e62.gif"  />
 
-###
+
 <hr>
 <div align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=victorgearhead&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&custom_title=My%20Stats" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=victorgearhead&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=true" height="120" alt="languages graph"  />
 </div>
 
-###
 
 <div align="center">
   <a href="victorinlight@gmail.com" target="_blank">
