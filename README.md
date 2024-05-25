@@ -5,7 +5,7 @@
 <img align="right" height="120" src="https://i.pinimg.com/564x/18/fb/ef/18fbef1eb60f96cd27e18f62c7e5af18.jpg"  />
 
 <hr>
-<p align="left"><p style="font-size:34 px; ">🙋‍♂️ About Me</p>                                                                 <br>👨‍🎓 I'm a Artificial Intelligence Developer and Erudition in Data Sciences<br>🌱 I’m currently learning at Indian Institute of Technology, Jodhpur.<br>📫 How to reach me: victorinlight@gmail.com or b22ai015@iitj.ac.in <br>👯 Embark my Adept Prowess for Rapid Learning by Collaborating.</p>
+<p align="left">                                                               👨‍🎓 I'm a Artificial Intelligence Developer and Erudition in Data Sciences<br>🌱 I’m currently learning at Indian Institute of Technology, Jodhpur.<br>📫 How to reach me: victorinlight@gmail.com or b22ai015@iitj.ac.in <br>👯 Embark my Adept Prowess for Rapid Learning by Collaborating.</p>
 
 <p align="left"><h1>🚀 Languages and Tools</h1><hr></p>
 
