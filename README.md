@@ -2,7 +2,7 @@
 
 
 
-🙋‍♂️ About Me                                                                                                 
+🙋‍♂️ About Me                                                                 
 <img align="center" alt="Coding" width=20% src="https://github.com/victorgearhead/VictorGearhead/assets/161515697/a6fa9cfd-0dcc-4efa-89b6-d4904b8da514">
 
 - 👨‍🎓 I'm a Artificial Intelligence Developer and Erudition in Data Sciences
