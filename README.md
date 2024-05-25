@@ -8,11 +8,11 @@
 
 ###
 
-<p align="left">🙋‍♂️ About Me                                                                 <br>- 👨‍🎓 I'm a Artificial Intelligence Developer and Erudition in Data Sciences<br>- 🌱 I’m currently learning at Indian Institute of Technology, Jodhpur.<br>- 📫 How to reach me: vigneshchittiprolu@gmail.com or b22ai015@iitj.ac.in<br>- 👯 Embark my Adept Prowess for Rapid Learning by Collaborating.</p>
+<p align="left"><h1>🙋‍♂️ About Me</h1>                                                                 <hr>- 👨‍🎓 I'm a Artificial Intelligence Developer and Erudition in Data Sciences<br>- 🌱 I’m currently learning at Indian Institute of Technology, Jodhpur.<br>- 📫 How to reach me: victorinlight@gmail.com or b22ai015@iitj.ac.in <br>- 👯 Embark my Adept Prowess for Rapid Learning by Collaborating.</p>
 
 ###
 
-<p align="left">🚀 Languages and Tools</p>
+<p align="left"><h1>🚀 Languages and Tools</h1><hr></p>
 
 ###
 
@@ -62,7 +62,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/victorgearhead/victorgearhead/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/victorgearhead/victorgearhead/output/snake.svg" alt="My Activity" />
 
 ###
 
