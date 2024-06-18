@@ -2,6 +2,12 @@
   <img height="200" src="https://i.pinimg.com/originals/c2/ce/63/c2ce63dd38a5c78855027fb479ea06a7.gif"  />
 </div>
 
+<div style="position: relative; text-align: center;">
+  <img src="https://i.pinimg.com/originals/4a/a6/d2/4aa6d23e1f8fea7ed3e83e43ea88ca0b.png" alt="Background Image" style="width: 100%; opacity: 0.3; position: absolute; top: 0; left: 0; z-index: -1;">
+  <div style="position: relative; z-index: 1;">
+  </div>
+</div>
+
 <h1 align="center">About Me</h1>
 <img align="right" height="120" src="https://i.pinimg.com/originals/91/5e/0d/915e0dd5f16ab084f6bec62f2a392b9e.jpg"  />
 
