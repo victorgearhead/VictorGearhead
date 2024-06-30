@@ -33,8 +33,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
@@ -48,6 +46,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nodejs/nodejs-original.svg" height="40" alt="node logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/streamlit/streamlit-original.svg" height="40" alt="streamlit logo"  />
 </div>
 <hr>
 
@@ -77,6 +82,9 @@
   </a>
   <a href="https://in.linkedin.com/in/bhala-vignesh-chittiprolu-15453b252?original_referer=https%3A%2F%2Fwww.google.com%2F" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://huggingface.co/VictorGearhead" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Hugging+Face&logo=huggingface&label=&color=FFD166&logoColor=white&labelColor=&style=for-the-badge" height="35" alt=" Hugging Face"  />
   </a>
 </div>
 
