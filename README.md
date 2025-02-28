@@ -5,7 +5,7 @@
 
 
 <h1 align="center">About Me</h1>
-<img align="right" height="120" src="https://i.pinimg.com/564x/65/bf/9c/65bf9c38fc99f4d0885659579b26c94b.jpg"  />
+<!-- <img align="right" height="120" src="https://i.pinimg.com/564x/65/bf/9c/65bf9c38fc99f4d0885659579b26c94b.jpg"  /> -->
 
 <p align="left">👨‍🎓 I'm a Artificial Intelligence Developer and Erudition in Data Sciences<br>🌱 I’m currently learning at Indian Institute of Technology, Jodhpur.<br>📫 How to reach me: <a href='mailto:vigneshchittiprolu@gmail.com'>vigneshchittiprolu@gmail.com</a> or <a href='mailto:b22ai015@iitj.ac.in'>b22ai015@iitj.ac.in</a> <br>👯 Embark my Adept Prowess for Rapid Learning by Collaborating.</p>
 
