@@ -85,6 +85,9 @@
   <a href="https://in.linkedin.com/in/bhala-vignesh-chittiprolu-15453b252?original_referer=https%3A%2F%2Fwww.google.com%2F" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+  <a href="https://www.kaggle.com/victorgearhead" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=20BEFF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Kaggle" />
+</a>
   <a href="https://huggingface.co/VictorGearhead" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Hugging+Face&logo=huggingface&label=&color=FFD166&logoColor=white&labelColor=&style=for-the-badge" height="35" alt=" Hugging Face"  />
   </a>
